@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+.btn button {
+  width: 90px;
+  margin-top: 10px;
+}
+.res {
+  margin-top: 10px;
+  background-color: gray;
+}
